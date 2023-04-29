@@ -44,7 +44,6 @@ public class Ventana_principal extends JFrame {
                      + "Proyecto de Computación Avanzada \n"
                      + "Sección 02\n"
                      + "Breakout Versión ALFA 2018\n"
-                     + "\nAutores: \nAbano Jesús \nCI V-24540196 \nGarrido Enyer \nCI V-20770200 \n"
                      , "Información", JOptionPane.INFORMATION_MESSAGE);
             requestFocusInWindow();
          }
